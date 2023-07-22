@@ -60,8 +60,10 @@ const Works = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>My work</p>
-        <h2 className={styles.sectionHeadText}>Projects.</h2>
+        <h2 className={styles.sectionHeadText}>Education</h2>
+        <h3 className={styles.heroSubText}>University of Huddersfield</h3>
+        <h4 className={styles.heroSubText}>(BSc)(Hons) Computing (Software Development)</h4>
+
       </motion.div>
 
       <div className="w-full flex">
@@ -69,11 +71,11 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+        Final year project: “Home cooked meal”.
+        An Android application was developed around the idea to create a social network allowing people to share home cooked dishes or meals. 
+        Application accommodated MySQL server to store user information and request of “Home cooked meal”. 
+        Web application was generated to enable communication with Android application.
+
         </motion.p>
       </div>
 
