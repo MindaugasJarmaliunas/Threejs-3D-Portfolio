@@ -49,8 +49,9 @@ const Feedbacks = () => {
         className={`${styles.padding} bg-tertiary rounded-2xl min-h-[300px]`}
       >
         <motion.div variants={textVariant()}>
-          <h2 className={styles.sectionHeadText}>Email: Mindaugas.Jarmaliunas@outlook.com</h2>
-          <p className={styles.sectionSubText}>Phone number: 07482555281</p>
+          <h2 className={styles.sectionHeadText}>This website:</h2>
+          <p className={styles.sectionSubText}>React application that has been containerised and deployed to Google cloud.</p>
+          <p className={styles.sectionSubText}>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Finish this sentense :::::::::::::::::::::::::::::::::::::::::::::::::::::Using CI/CD pipeline </p>
         </motion.div>
       </div>
       <div className={`${styles.paddingX} -mt-20 pb-14 flex flex-wrap gap-7`}>

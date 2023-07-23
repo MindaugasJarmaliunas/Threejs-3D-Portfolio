@@ -145,7 +145,7 @@ const experiences = [
       "Working on integration of PDF functionality into the main product. This includes prototyping new-features and relaying findings in feature definition meetings to scope out new features. Other areas include working and maintaining plugins and integrations. In some cases this work is carried out based on customer feedback or requirements to improve functionality based on internal testing. Improvements in functionality also included working on a Wix based plugin installer. ",
       "Using the company’s software to develop internal projects including Virtual Machines project. This project is heavily used in testing of new software releases. Web-based project takes user input to build XML document used in virtual machine creation.Migrated previously developed project data into SQL database.  ",
       "Working on KPIs to display day-to-day to display company’s performance indicators. For example, Virtual Machines usage like most commonly requested operating system versions. ",
-      "PProgrammed an Azure function to sync holiday requests with Microsoft Outlook calendar. Azure function integrated with HR system web-hook functionality.",
+      "Programmed an Azure function to sync holiday requests with Microsoft Outlook calendar. Azure function integrated with HR system web-hook functionality. In addition was involved into building docker container to be deployed using bicep file configuration.",
     ],
   },
   // {
